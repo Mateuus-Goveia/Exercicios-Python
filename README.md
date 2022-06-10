@@ -1,6 +1,6 @@
 # Exercicios-Python
 
-![Bandeira Brasil](https://user-images.githubusercontent.com/102265029/173056470-fb07e11f-b5b7-4b32-ae72-2059f0762841.png) Minhas resoluções dos exercícios do curso de python da udemy, tentei ser o mais didático que consegui aproveita ai xD.
+![Bandeira Brasil](https://user-images.githubusercontent.com/102265029/173056470-fb07e11f-b5b7-4b32-ae72-2059f0762841.png) Minhas resoluções dos exercícios do curso de python da udemy, tentei ser o mais didático que consegui aproveita ai.
  
 ![Bandeira Estados Unidos](https://user-images.githubusercontent.com/102265029/173056466-114f9dde-e478-465b-b704-afd001f65728.png) My progression of the udemy python course exercises resolutions.
 
