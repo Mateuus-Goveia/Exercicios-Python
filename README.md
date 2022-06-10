@@ -8,3 +8,5 @@
  [Curso de Geek University distribuido pela Udemy.](https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/)
  
 ![transferir-removebg-preview (1)](https://user-images.githubusercontent.com/102265029/173057278-d11e313f-3c61-498c-ac83-068cb24bea3e.png)
+![G U](https://user-images.githubusercontent.com/102265029/173068991-b76dff30-6501-4da6-b90a-fa44ededce6a.png)
+![w5r7nyjdvnaw0fppxl3d (1) (1)](https://user-images.githubusercontent.com/102265029/173068998-1040da86-80aa-46ae-b546-5916e9e94000.png)
